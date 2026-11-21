@@ -1,0 +1,11 @@
+data/
+*.csv
+!outputs/*.csv
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.ipynb_checkpoints/
+.env
+*.zip
+bdb27-shards-*/
+*.log
