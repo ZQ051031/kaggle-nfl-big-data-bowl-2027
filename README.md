@@ -1,6 +1,6 @@
 # Brake & Burst · NFL Big Data Bowl 2027
 
-**Development entry, not a submitted competition entry. All committed results and notebook outputs use synthetic data. Real NFL competition data requires Kaggle login and rule acceptance; it was NOT accessed or used. No account was created, login attempted, notebook published, or remote push made.**
+**Development entry, not a submitted competition entry. All committed results and notebook outputs use synthetic data. Real NFL competition data requires Kaggle login and rule acceptance; it was NOT accessed or used. No account was created, login attempted, or notebook published.**
 
 Question: does speed retained through a route break translate from Combine drills to NFL separation, beyond traditional tests? Primary modelling: WR/TE. RB and DB groups: descriptive cut translation. Read [REPORT.md](REPORT.md) for the current measured results and limitations.
 
